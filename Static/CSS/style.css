@@ -1,0 +1,184 @@
+
+.card-one {
+    border: 2px solid black;
+    display: inline-block;
+    width: 333px;
+    height: 508px;
+    margin-top: 90px;
+    margin-left: 90px;
+    
+
+}
+.card-two {
+    border: 2px solid black;
+    display: inline-block;
+    width: 333px;
+    height: 487px;
+    margin-top: 90px;
+    margin-left: 90px;
+    padding-left: 39px;
+    padding-top: 20px;
+
+}
+.card-three {
+    border: 2px solid black;
+    display: inline-block;
+    width: 333px;
+    height: 487px;
+    margin-top: 90px;
+    margin-left: 90px;
+    margin-right: 126px;
+    padding-top: 20px;
+    padding-left: 24px;
+
+}
+.product-all {
+    display: flex;
+    
+}
+
+.one-button {
+    width: 118px;
+    height: 30px;
+    margin-top: 23px;
+    margin-left: 349px;
+}
+
+.second-button {
+    width: 118px;
+    height: 30px;
+    margin-top: 23px;
+    margin-left: 388px;
+}
+
+.third-button {
+    width: 118px;
+    height: 30px;
+    margin-top: 23px;
+    margin-left: 372px;
+
+}
+
+.homee {
+    margin-top: 220px;
+    margin-left: 589px;
+    margin-right: 60px;
+}
+
+.about {
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contact {
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 220px;
+}
+ header {
+    list-style-type: none;
+  
+ }
+
+
+.product {
+    margin-left: 560px;
+    margin-top: 48px;
+}
+.product {
+    font-size: larger;
+}
+
+.all-footer {
+    display: flex;
+}
+.footer1 {
+    text-decoration: dashed;
+}
+.footer1 {
+    border: 1px solid white;
+    display: inline-block;
+}
+
+.all-footers {
+    display: flex;
+}
+
+.all-footers {
+    font-weight: 0;
+}
+
+.footer-one {
+    border: 1 px solid white;
+    display: inline-block;
+
+    width: 50 px;
+}
+.footer-two {
+    border: 1 px solid white;
+    display: inline-block;
+
+    width: 50 px;
+
+}
+.footer-three {
+    border: 1 px solid white;
+    display: inline-block;
+
+    width: 50 px;
+}
+.footer-one {
+    margin-left: 76px;
+}
+.footer-two {
+    margin-left: 200px;
+    margin-right: 236px;
+}
+.all-footers {
+    margin-top: 55px;
+}
+
+.contactus {
+    font-size: xx-large;
+    margin-top: 70px;
+    margin-left: 679px;
+}
+.contact-info {
+    border: 1px solid white;
+}
+.contact-info {
+    margin-left: 300px;
+    font-size: x-large;
+    margin-top: 100px;
+}
+.company {
+    margin-left: 620px;
+    margin-top: 70px;
+    font-size: xx-large;
+}
+.product {
+    font-size: x-large;
+}
+.about-p {
+    border: 1px solid white;
+    width: 650px;
+    font-size: x-large;
+    margin-left: 220px;
+    margin-top: 90px;
+   
+}
+.adress2 {
+    font-size: large;
+    margin-left:215px ;
+
+}
+.title-one {
+    font-size: x-large;
+    margin-left: 10px;
+    margin-top: 36px;
+}
+.product1-paragraph {
+    width: 315px;
+    margin-left: 13px;
+}
